@@ -1,0 +1,10 @@
+mcp-python>=0.1.0
+praw==7.7.1
+newsapi-python==0.2.7
+yfinance==0.2.36
+pandas==2.1.4
+openai==1.6.1
+python-dotenv==1.0.0
+plotly==5.18.0
+requests==2.31.0
+beautifulsoup4==4.12.2 

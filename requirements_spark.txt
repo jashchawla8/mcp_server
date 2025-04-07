@@ -1,0 +1,9 @@
+pyspark==3.5.0
+aiohttp==3.9.3
+yfinance==0.2.36
+newsapi-python==0.2.7
+python-dotenv==1.0.1
+openai==1.12.0
+spark-nlp==4.4.0
+numpy>=1.24.3
+pandas>=2.0.0 

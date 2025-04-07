@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "market-insights-server": {
+            "command": "python",
+            "args": [
+                "/Users/jashchawla/mcp_server/market_insights_server.py"
+            ],
+            "cwd": "/Users/jashchawla/mcp_server"
+        }
+    }
+} 

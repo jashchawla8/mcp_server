@@ -1,0 +1,15 @@
+INFO:__main__:Starting Market Insights Server...
+INFO:__main__:Initializing Market Insights Server...
+DEBUG:asyncio:Using selector: KqueueSelector
+INFO:__main__:APIs initialized successfully
+DEBUG:mcp.server.lowlevel.server:Initializing server 'Market Insights Server'
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for CallToolRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ReadResourceRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for PromptListRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for GetPromptRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListResourceTemplatesRequest
+INFO:__main__:Registering tools...
+INFO:__main__:Starting MCP server...
+DEBUG:asyncio:Using selector: KqueueSelector
