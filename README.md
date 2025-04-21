@@ -3,6 +3,8 @@
 A real-time commodity tracking system using Apache Spark, OpenAI GPT, and the MCP protocol to generate actionable market insights.
 
 ---
+![image](https://github.com/user-attachments/assets/c5025e4d-bd10-472d-a1f1-cb517495d68b)
+
 
 ## Features
 
